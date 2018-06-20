@@ -92,7 +92,8 @@ adopted "right to be forgotten" in 2006 and most recently dealt user-centric dat
 ratification of the General Data Protection Regulation (GDPR). A trend is starting to take shape globally, and the general
 message is that of support in favor of the data creators’ rights.
 
-Furthermore, the health care industry as a whole moves far slower than most other fields. An infamous quote from Wayne Smith of John Hopkins best sums up the conundrum quite well: “we implement yesterday’s technology, tomorrow.”
+Furthermore, the health care industry as a whole moves far slower than most other fields. An infamous quote from Wayne Smith
+of John Hopkins best sums up the conundrum quite well: “we implement yesterday’s technology, tomorrow.”
 
 Protectionism, in both data records and market share alone, could not only lead to major interoperability concerns, but also 
 add in technology not designed for today's interconnected, continuously improving, developed world--ultimately causing the
