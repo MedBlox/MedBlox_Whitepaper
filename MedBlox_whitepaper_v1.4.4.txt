@@ -34,21 +34,21 @@ Thus, we are MedBlox and it’s a pleasure to meet you!
 
 Table of Contents
 
-Abstract				                         4
-Securing health care data		             6
-The Problem				                       6
-Interoperability			                   6
-Data Security				                     6
-Regulatory				                       7
-Availability				                     7
-The Solution				                     8
-The General Solution		               	 8
-The MedBlox Solution			              10
-Provider to Provider architecture	      10
-Patient to Provider architecture	      10
-Provider and Affiliate validation	      11
-Regulatory and compliance		            12
-Uses and benefits			                  12
+Abstract				                        4
+Securing health care data		             		6
+The Problem				                      	6
+Interoperability			                   	6
+Data Security				                     	6
+Regulatory				                      	7
+Availability				                     	7
+The Solution				                     	8
+The General Solution		               	 		8
+The MedBlox Solution			              		10
+Provider to Provider architecture	      			10
+Patient to Provider architecture	      			10
+Provider and Affiliate validation	      			11
+Regulatory and compliance		            		12
+Uses and benefits			                 	12
 
 
 Overview
